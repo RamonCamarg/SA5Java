@@ -1,0 +1,5 @@
+Cliente CPF: das Cadastrado com Sucesso.
+Cliente CPF: das Apagado do Banco com Sucesso.
+Cliente CPF:  Apagado do Banco com Sucesso.
+Cliente CPF: dsadsa Cadastrado com Sucesso.
+Cliente CPF: dsadsa Atualizado com Sucesso.
